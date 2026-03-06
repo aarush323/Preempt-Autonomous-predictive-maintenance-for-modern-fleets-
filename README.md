@@ -12,6 +12,11 @@ An autonomous, multi-agent fleet health management system designed for proactive
 > This is the improved **LangGraph** implementation of the system. For the previous **CrewAI** version, please visit: [Automotive-Predictive-Maintenance-AI-System_CREWAI](https://github.com/aarush323/Automotive-Predictive-Maintenance-AI-System_CREWAI)
 
 ---
+
+# System Architecture:
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/975f6fe7-bcf0-45e2-a999-31942891b0d6" />
+
+---
 ## Prototype visual:
 <img width="1919" height="970" alt="landing" src="https://github.com/user-attachments/assets/398e6dff-e685-43a0-9ac4-235837625cac" />
 <img width="1914" height="979" alt="lang_db_1" src="https://github.com/user-attachments/assets/445ec1d5-3f38-4090-8323-944418cd72d5" />
@@ -124,4 +129,5 @@ The system is split into two core layers:
 ├── tools/                # Specialized APIs (Telematics, Service Centers)
 └── main.py               # Backend Entry Point
 ```
+
 
